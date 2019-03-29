@@ -1,4 +1,4 @@
-package com.example.pengz.leancloud_logintest;
+package com.example.pengz.leancloud_login;
 
 import org.junit.Test;
 
